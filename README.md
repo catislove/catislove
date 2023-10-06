@@ -2,7 +2,7 @@
 
 <!--About me-->
 
-## :technologist:About me
+## :technologist:Обо мне:
 - Меня зовут Амалия
 - Я инженер по тестированию программного обеспечения
 - Пишу автотесты на Python 
@@ -14,7 +14,9 @@
   &#8287;
 </p>
 
-## :man_student:Education
+<!--Education-->
+
+## :man_student:Образование:
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/images/miigaik.png"></td><td valign="middle">Московский государственный университет геодезии и картографии.</br>Факультет геоинформатики и информационной безопасности.</br>Специальность: информационная безопасность информационно-коммуникационных систем</td></tr>
@@ -23,3 +25,33 @@
    </tr>
   </table>
   </br>
+
+<!--Stack and tools-->
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :computer:Инструменты
+<p  align="center">
+  <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
+  <code><img width="5%" title="Python" src="images/python.png"></code>
+  <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
+  <code><img width="5%" title="Selene" src="images/selene.png"></code>
+  <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
+  <code><img width="5%" title="Requests" src="images/requests.png"></code>
+  <code><img width="5%" title="GitHub" src="images/github.png"></code>
+  <code><img width="5%" title="Jenkins" src="images/jenkins.png"></code>
+  <code><img width="5%" title="Selenoid" src="images/selenoid.png"></code>
+  <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/allure_testops.png"></code>
+  <code><img width="5%" title="Appium" src="images/appium.png"></code>
+  <code><img width="5%" title="Browserstack" src="images/browserstack.png"></code>
+  <code><img width="5%" title="Jira" src="images/jira.png"></code>
+</p>
+
+<!--Projects-->
+
+## :floppy_disk: Проекты для ознакомления
+### <img width="3%" src="images/github.png"> [UI tests project](https://github.com/catislove/qa_guru_graduation_project_UI)
+
+### <img width="3%" src="images/github.png"> [API tests project](https://github.com/catislove/qa_guru_graduation_project_API)
+
+### <img width="3%" src="images/github.png"> [Mobile tests project](https://github.com/catislove/qa_guru_graduation_project_mobile)
