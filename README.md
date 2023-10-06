@@ -55,3 +55,8 @@
 ### <img width="3%" src="images/github.png"> [API tests project](https://github.com/catislove/qa_guru_graduation_project_API)
 
 ### <img width="3%" src="images/github.png"> [Mobile tests project](https://github.com/catislove/qa_guru_graduation_project_mobile)
+
+## Cтатистика
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=catislove&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catislove&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catislove&theme=tokyonight)
