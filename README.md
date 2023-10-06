@@ -1,21 +1,20 @@
-### Добро пожаловать и привет! :cherry_blossom:
-Меня зовут Амалия. С января 2022 года я - инженер по тестированию программного обеспечения.</br>
+### Добро пожаловать! :cherry_blossom:
 
-<!--
-**catislove/catislove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--About me-->
 
-Here are some ideas to get you started:
+## :technologist:About me
+- Меня зовут Амалия
+- Я инженер по тестированию программного обеспечения
+- Пишу автотесты на Python 
+- Мой телеграмм:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/Amalia_TG"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
+  &#8287;
+</p>
 
+## :man_student:Education
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/images/miigaik.png"></td><td valign="middle">Московский государственный университет геодезии и картографии.</br>Факультет геоинформатики и информационной безопасности.</br>Специальность: информационная безопасность информационно-коммуникационных систем</td></tr>
